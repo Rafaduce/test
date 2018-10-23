@@ -17,4 +17,8 @@
 - [ ] `#demo.innerHTML = "Hello World!";`
 - [ ] `document.getElementByName("p").innerHTML = "Hello World!";`
 
+3. ¿Cuál es el lugar correcto para insertar JavaScript?
 
+- [ ] En la sección de `<head>`.
+- [ ] Ambas secciones `<head>` y `<body>` son correctas.
+- [x] En la sección de `<body>`.
