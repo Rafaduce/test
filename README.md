@@ -33,3 +33,10 @@
 
 - [x] Falso
 - [ ] Verdadero
+
+6. ¿Cómo escribes "Hello World" en una pestaña emergente de alerta?
+
+- [ ] `msgBox("Hello World");`
+- [ ] `alertBox("Hello World");`
+- [x] `alert("Hello World");`
+- [ ] `msg("Hello World");`
