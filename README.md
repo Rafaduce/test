@@ -98,3 +98,8 @@
 - [ ] `var colors = "red", "green", "blue"`
 - [ ] `var colors = (1:"red", 2:"green", 3:"blue")`
 - [ ] `var colors = 1 = ("red"), 2 = ("green"), 3 = ("blue")`
+
+16. ¿JavaScript es lo mismo que Java?
+
+- [ ] Verdadero
+- [x] Falso
