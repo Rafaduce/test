@@ -28,3 +28,8 @@
 - [ ] `<script name="xxx.js">`
 - [x] `<script href="xxx.js">`
 - [ ] `<script src="xxx.js">`
+
+5. ¿El archivo externo de JavaScript debe contener un tag `<script>`>?
+
+- [x] Falso
+- [ ] Verdadero
