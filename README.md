@@ -109,3 +109,10 @@
  - [ ] `v carName;`
  - [ ] `variable carName;`
  - [x] `var carName;`
+
+ 18. ¿Qué operador se usa para asignar un valor a una variable?
+ 
+ - [x] `=`
+ - [ ] `*`
+ - [ ] `x`
+ - [ ] `-`
