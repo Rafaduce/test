@@ -103,3 +103,9 @@
 
 - [ ] Verdadero
 - [x] Falso
+
+17. ¿Cómo declaras una variable en JavaScript?
+
+ - [ ] `v carName;`
+ - [ ] `variable carName;`
+ - [x] `var carName;`
