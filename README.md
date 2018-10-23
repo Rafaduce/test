@@ -116,3 +116,9 @@
  - [ ] `*`
  - [ ] `x`
  - [ ] `-`
+
+ 19. ¿Qué regresa la siguiente línea de código: `Boolean(10 > 9)`?
+
+- [ ] `true`
+- [ ] `NaN`
+- [x] `false`
