@@ -79,3 +79,9 @@
 - [ ] `for i = 1 to 5`
 - [x] `for (i = 0; i <= 5; i++)`
 - [ ] `for (i <= 5; i++)`
+
+13. ¿Cómo agregas un comentario en JavaScript?
+
+- [ ] `'This is a comment`
+- [x] `//This is a comment`
+- [ ] `<!--This is a comment-->`
